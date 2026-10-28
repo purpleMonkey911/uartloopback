@@ -4,7 +4,9 @@ A simple STM32 application that accepts data on the UART Rx line and immediately
 
 ![alt text](./doc/uartloopback.jpg)
 
-![Video](./doc/uartloopback.mp4)
+<video src="./doc/uartloopback.mp4" controls autoplay loop> 
+    Click [here](./doc/uartloopback.mp4) for video
+</video>
 
 ## Hardware
 - ST Nucleo 64 board with STM32G474RE MCU
